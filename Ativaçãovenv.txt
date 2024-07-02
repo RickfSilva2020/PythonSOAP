@@ -1,0 +1,7 @@
+apWindows
+
+.\nome da pasta\Scripts\Activate
+
+Linux
+
+source/nome da pasta/bin/Activate
